@@ -1,4 +1,4 @@
-
+<style>
 
 
 * {
@@ -112,4 +112,4 @@ body {
   background-color: #8e44ad; -webkit-transform: scale(5); transform: scale(5); }
   100% { 
   background-color: #8e44ad; -webkit-transform: scale(0); transform: scale(0); }
-}
+}</style>
